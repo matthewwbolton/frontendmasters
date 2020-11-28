@@ -1,0 +1,19 @@
+{
+  "name": "frontendmasters",
+  "version": "1.0.0",
+  "description": "Thanks for hanging out with me during our Frontend Masters workshop! This repo contains the ode examples for HTML Email v2 including examples for single and multiple column emails using traditional responsive techniques and hybrid coding, as well as some basic examples for CSS animations, interactivity, and a few other things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewwbolton/frontendmasters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewwbolton/frontendmasters/issues"
+  },
+  "homepage": "https://github.com/matthewwbolton/frontendmasters#readme"
+}
